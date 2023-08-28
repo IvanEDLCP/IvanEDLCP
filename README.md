@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on university projects<br>🌱 I’m currently learning PHP and React
+🔭 I’m currently working on university projects
 
 
 # 💻 Tech Stack:
